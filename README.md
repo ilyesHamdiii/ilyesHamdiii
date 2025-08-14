@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/07cf3421-d3e1-4f12-8627-80669a871d02/project/a2005605-7710-428b-8477-f34519a50ea7.svg)](https://wakatime.com/badge/user/07cf3421-d3e1-4f12-8627-80669a871d02/project/a2005605-7710-428b-8477-f34519a50ea7)
 
 <!--
 **ilyesHamdiii/ilyesHamdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
