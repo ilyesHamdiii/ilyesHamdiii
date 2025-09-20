@@ -12,6 +12,7 @@ For me, programming is less about chasing technologies and more about building t
 ## 🧰 Tech Stack
 
 **Backend:** Python  
+**Frameworks:** Fastapi,Django
 **Databases:** PostgreSQL | SQL  
 **DevOps & Infra:** Docker | Kubernetes | NGINX | Redis  
 
