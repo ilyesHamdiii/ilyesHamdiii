@@ -16,9 +16,9 @@
     <a href="https://user-badge.committers.top/tunisia_private/ilyeshamdiii">
     <img src="https://user-badge.committers.top/tunisia_private/ilyeshamdiii.svg" alt="ilyeshamdiii" />
   </a>
-  <a href="https://www.linkedin.com/in/ilyeshamdiii/">
+<!--   <a href="https://www.linkedin.com/in/ilyeshamdiii/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
-  </a>
+  </a> -->
   <a href="mailto:ziedsnoussi.tn@gmail.com">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
   </a>
