@@ -88,4 +88,4 @@ For me, programming is less about chasing technologies and more about building t
   <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true"/>
 </div>
 <!-- <p align="center">Made with ❤️ and TypeScript</p> -->
-<p align="center">Copyright © 2025-present ILYES HAMDI</p>
+<p align="center">Copyright © 2022-present Zied SNOUSSI</p>
