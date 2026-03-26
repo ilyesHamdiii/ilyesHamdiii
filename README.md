@@ -52,4 +52,4 @@ While my focus is security, I leverage backend experience to support automation 
 ---
 
 ## 📫 Connect
-- LinkedIn: [Ilyes HAMDI](www.linkedin.com/in/ilyeshamdi)
+- LinkedIn: [Ilyes HAMDI](https://www.linkedin.com/in/ilyeshamdi/)
