@@ -1,5 +1,4 @@
-# Hi, I'm [Ilyes HAMDI]
-
+# Hi, I'm Ilyes HAMDI
 ## SOC Analyst | Detection Engineering | Log & Threat Analysis
 
 I specialize in investigating security incidents, performing threat hunting, and building detection logic from real telemetry in homelab environments. My goal is to translate raw logs into actionable security insights and strengthen defensive operations.
